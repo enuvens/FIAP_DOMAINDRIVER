@@ -1,0 +1,8 @@
+DriverManager -> Verifica os requisistos físicos e lógicos e disponibiliza uma conexão.
+
+Connection -> Recebe e retém a conexão.
+
+Statement -> Representa uma estrutura para execução do SQL
+
+ResultSet -> Representa os dados que podem ser retornados por uma pesquisa (SELECT)
+
