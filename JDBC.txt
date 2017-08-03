@@ -6,3 +6,4 @@ Statement -> Representa uma estrutura para execução do SQL
 
 ResultSet -> Representa os dados que podem ser retornados por uma pesquisa (SELECT)
 
+
